@@ -1,0 +1,44 @@
+dengue
+├── annual_mean_temp.tfw
+├── annual_mean_temp.tif
+├── annual_mean_temp.tif.aux.xml
+├── annual_mean_temp.tif.ovr
+├── annual_mean_temp.tif.xml
+├── annual_prec.tfw
+├── annual_prec.tif
+├── annual_prec.tif.aux.xml
+├── annual_prec.tif.ovr
+├── annual_prec.tif.xml
+├── clc.tfw
+├── clc.tif
+├── clc.tif.aux.xml
+├── clc.tif.ovr
+├── clc.tif.vat.cpg
+├── clc.tif.vat.dbf
+├── dem.tfw
+├── dem.tif
+├── dem.tif.aux.xml
+├── dem.tif.ovr
+├── dem.tif.vat.cpg
+├── dem.tif.vat.dbf
+├── dem.tif.xml
+├── dist_water.tfw
+├── dist_water.tif
+├── dist_water.tif.aux.xml
+├── dist_water.tif.xml
+├── points
+│   ├── DengueCol2012.cpg
+│   ├── DengueCol2012.dbf
+│   ├── DengueCol2012.prj
+│   ├── DengueCol2012.sbn
+│   ├── DengueCol2012.sbx
+│   ├── DengueCol2012.shp
+│   ├── DengueCol2012.shp.xml
+│   ├── DengueCol2012.shx
+│   └── points.zip
+├── predict_dengue.tfw
+├── predict_dengue.tif
+├── predict_dengue.tif.aux.xml
+└── predict_dengue.tif.ovr
+
+1 directory, 40 files
